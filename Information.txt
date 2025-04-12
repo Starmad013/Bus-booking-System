@@ -1,0 +1,23 @@
+Admin Username = Gauravjat
+Admin Password = !1234
+
+Operator Id = 1 
+Name =  Gaurav 
+Address = Indore
+Phone no. = 7440266105
+Email = gaurav123@gmail.com
+
+
+Route Id = 1                    |  Route Id = 1
+Station Name = Indore           |  Station Name = Bhopal
+Station Id = 1                  |  Station Id = 2
+
+
+Bus Id = 1 
+Bus Type = AC 3x2 
+Capacity = 50 
+Fare = 2000
+
+
+Running Date = 10/12/2023 
+seat available = 40
